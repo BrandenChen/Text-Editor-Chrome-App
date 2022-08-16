@@ -1,0 +1,108 @@
+body {
+    background: #b0e2f1;
+    margin: auto;
+    text-align: center;
+    padding: .3em 1em;
+
+}
+
+.hidden{
+    display:none;
+}
+
+.add-keyword{
+    color: white;
+    background-color: rgb(50, 180, 255);
+    font-weight: bold;
+    font-size: 1.5em;
+    cursor: pointer;
+    border-radius: 5em;
+    padding: .4em 1.3em;
+    border-color : transparent;
+    margin : 0.5em;
+    
+}
+
+.save{
+    color: rgb(50, 180, 255);
+    background-color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.5em;
+    cursor: pointer;
+    border-radius: 5em;
+    padding: .4em 1.3em;
+    border-color : rgb(50, 180, 255);
+}
+
+.input-item{
+    color: rgb(50, 180, 255);
+    font-size: 1.5em;
+    font-weight: bold;
+    border-radius: 1em;
+    padding: .3em 1em;
+    border-color : rgb(50, 180, 255);
+    margin: auto;
+}
+
+.keywords-holder
+{
+    background-color: white;
+    border-radius: 2em;
+    margin: auto;
+    margin-top: 5em;
+    width: 22.5%;
+
+}
+
+.select{
+    color: white;
+    background-color: rgb(50, 180, 255);
+    font-size: 0.9em;
+    cursor: pointer;
+    border-radius: 2em;
+    padding: .3em 1em;
+    border-color : transparent;
+    margin : auto;
+    display : center;
+}
+
+.option{
+    color: black;
+    background-color: white;
+    font-size: 0.9em;
+    cursor: pointer;
+    border-radius: 2em;
+    padding: .3em 1em;
+}
+
+.remove{
+    color: white;
+    background-color: rgb(50, 180, 255);
+    font-size: 1.3em;
+    cursor: pointer;
+    border-radius: 4em;
+    padding: .3em 1em;
+    border-color : transparent;
+    margin : 0.3em;
+    display: center;
+}
+
+.input{
+    background-color: white;
+    font-size: 0.9em;
+    color:rgb(50, 180, 255);
+    cursor: pointer;
+    border-radius: 2em;
+    padding: .3em 1em;
+    border-color:rgb(50, 180, 255);
+}
+
+.label{
+    font-size : 1.25em;
+}
+
+.head{
+    font-size : 3.5em;
+    margin-top :9em;
+}

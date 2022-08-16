@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Word Editor</title>
+
+<link href = "option.css" rel = "stylesheet" type = "text/css">
+
+</head>
+
+<body>
+    <h1 class = "head">The Word Editor Extension</h1>
+  <div class="keywords-holder">
+    <div class="keyword-row">
+      
+      <div class="input-item keyword">
+        <label class = "label">Keyword</label>
+        <input class= "input" type="text" value="" placeholder="Enter Keyword..."/>
+      </div>
+      <div class="input-item type">
+        <label class = "label">Select Type</label>
+        <select class="select" >
+          <option class="option" value="0">Remove</option>
+          <option class="option" value="1">Replace</option>
+          <option class="option" value="2">Hide</option>
+          <option class="option" value="3">Highlight</option>
+        </select>
+        
+      </div>
+      <div class="input-item hidden replace">
+        <label class = "label">Replace With</label>
+        <input class= "input" type="text" value=""/>
+      </div>
+      <div><button class="remove">Remove Keyword</button></div>
+    </div>
+  </div>
+
+  <div>
+    <button class="add-keyword">Add Another Keyword</button>
+  </div>
+
+
+
+  <div id="status"></div>
+  <button class= "save" id="save">Save</button>
+
+  <script src="option.js"></script>
+</body>
+</html>
