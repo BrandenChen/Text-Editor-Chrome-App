@@ -10,7 +10,16 @@ Download the project file and upload to Google Chrome Extension page
 
 The extension has different functions...
 - Deleting a word or multiple different words from a webpage
+Example Delete
+Keyword : 13, 14, 15
+![image](https://user-images.githubusercontent.com/99563611/185011510-33630eb2-2899-446d-9f18-784991b64281.png)
+
 - Hide but not delete a word or multiple different words from a webpage
+Example Hide
+Keyword : Spoiler
+![Capture](https://user-images.githubusercontent.com/99563611/185012509-ae104b72-91db-4efd-83dc-6b69539e093a.PNG)
+
+
 - Highlighting sections of texts that are related to the keyword or keywords
 - Replacing the keyword or words with other words
 
