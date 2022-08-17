@@ -2,9 +2,9 @@
 Text Editor is a chrome extension that allows word modifications on webpages.
 ![Capture](https://user-images.githubusercontent.com/99563611/185010746-78f8ebfc-aac9-42e7-bc40-9b498405306c.PNG)
 # Tools Used
--JavaScript
--CSS
--HTML
+- JavaScript
+- CSS
+- HTML
 ## Installation
 Download the project file and upload to Google Chrome Extension page
 (The Project will be in Google Chrome Extension store soon)
