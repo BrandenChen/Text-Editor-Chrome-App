@@ -5,7 +5,7 @@ Text Editor is a chrome extension that allows word modifications on webpages.
 Download the project file and upload to Google Chrome Extension page
 (The Project will be in Google Chrome Extension store soon)
 
-##Usage
+## Usage
 
 The extension has different functions...
 -Deleting a word or multiple different words from a webpage
