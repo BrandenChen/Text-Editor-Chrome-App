@@ -8,9 +8,9 @@ Download the project file and upload to Google Chrome Extension page
 ## Usage
 
 The extension has different functions...
--Deleting a word or multiple different words from a webpage
--Hide but not delete a word or multiple different words from a webpage
--Highlighting sections of texts that are related to the keyword or keywords
--Replacing the keyword or words with other words
+- Deleting a word or multiple different words from a webpage
+- Hide but not delete a word or multiple different words from a webpage
+- Highlighting sections of texts that are related to the keyword or keywords
+- Replacing the keyword or words with other words
 
 
