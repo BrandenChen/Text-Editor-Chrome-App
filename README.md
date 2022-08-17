@@ -19,8 +19,14 @@ Example Hide
 Keyword : Spoiler
 ![Capture](https://user-images.githubusercontent.com/99563611/185012509-ae104b72-91db-4efd-83dc-6b69539e093a.PNG)
 
-
 - Highlighting sections of texts that are related to the keyword or keywords
-- Replacing the keyword or words with other words
+Example Highlight
+Keyword: Highlight
+![image](https://user-images.githubusercontent.com/99563611/185012751-1f9d4b55-4def-42be-8b56-6f4a5d6af29c.png)
 
+
+- Replacing the keyword or words with other words
+Example Replace
+Keyword : 25 to 1
+![image](https://user-images.githubusercontent.com/99563611/185013049-73b5c53c-512b-40dc-af60-67516616a2da.png)
 
